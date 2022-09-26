@@ -1,6 +1,6 @@
 [package]
 name = "cablecrab"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple packet sniffer made with rust"
 repository = "https://github.com/antonio-campobasso/cablecrab"
