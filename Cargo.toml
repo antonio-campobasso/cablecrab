@@ -5,7 +5,7 @@ edition = "2021"
 description = "A simple packet sniffer made with rust"
 repository = "https://github.com/antonio-campobasso/cablecrab"
 readme = "README.md"
-license-file = "LICENSE.txt"
+license-file = "LICENSE"
 
 [lib]
 crate-type = ["dylib"]
